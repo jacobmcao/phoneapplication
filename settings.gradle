@@ -1,0 +1,1 @@
+include ':app', ':ammp-android-toolkit-1.1.0', ':httpclient-android-4.3.3', ':httpmime-4.3.3', ':mylibrary'

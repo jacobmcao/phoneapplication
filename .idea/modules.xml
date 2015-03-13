@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ammp-android-toolkit-1.1.0/ammp-android-toolkit-1.1.0.iml" filepath="$PROJECT_DIR$/ammp-android-toolkit-1.1.0/ammp-android-toolkit-1.1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-android-4.3.3/httpclient-android-4.3.3.iml" filepath="$PROJECT_DIR$/httpclient-android-4.3.3/httpclient-android-4.3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpmime-4.3.3/httpmime-4.3.3.iml" filepath="$PROJECT_DIR$/httpmime-4.3.3/httpmime-4.3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoneapplication.iml" filepath="$PROJECT_DIR$/phoneapplication.iml" />
+    </modules>
+  </component>
+</project>
+
